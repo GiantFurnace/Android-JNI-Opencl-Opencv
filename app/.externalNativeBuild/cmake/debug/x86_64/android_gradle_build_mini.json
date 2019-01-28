@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "D:\\androidsdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\AndroidOpenclOpencvSaliency\\app\\CMakeLists.txt",
+    "D:\\androidsdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\androidsdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\AndroidOpenclOpencvSaliency\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "opencl-opencv-saliency-Debug-x86_64": {
+      "artifactName": "opencl-opencv-saliency",
+      "buildCommand": "D:\\androidsdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\AndroidOpenclOpencvSaliency\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target opencl-opencv-saliency",
+      "abi": "x86_64",
+      "output": "D:\\AndroidOpenclOpencvSaliency\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libopencl-opencv-saliency.so"
+    }
+  }
+}

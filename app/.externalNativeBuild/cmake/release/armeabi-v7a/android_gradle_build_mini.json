@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "D:\\androidsdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\AndroidOpenclOpencvSaliency\\app\\CMakeLists.txt",
+    "D:\\androidsdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\androidsdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\AndroidOpenclOpencvSaliency\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "opencl-opencv-saliency-Release-armeabi-v7a": {
+      "artifactName": "opencl-opencv-saliency",
+      "buildCommand": "D:\\androidsdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\AndroidOpenclOpencvSaliency\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target opencl-opencv-saliency",
+      "abi": "armeabi-v7a",
+      "output": "D:\\AndroidOpenclOpencvSaliency\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libopencl-opencv-saliency.so"
+    }
+  }
+}

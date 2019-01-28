@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/AndroidOpenclOpencvSaliency/app/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "D:\\androidsdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=D:/androidsdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64  -Dopencl_opencv_saliency_EXPORTS -I../../../../src/main/cpp/include  --sysroot D:/androidsdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\opencl-opencv-saliency.dir\\src\\main\\cpp\\opencl-opencv-saliency.cpp.o -c D:\\AndroidOpenclOpencvSaliency\\app\\src\\main\\cpp\\opencl-opencv-saliency.cpp",
+  "file": "D:/AndroidOpenclOpencvSaliency/app/src/main/cpp/opencl-opencv-saliency.cpp"
+}
+]

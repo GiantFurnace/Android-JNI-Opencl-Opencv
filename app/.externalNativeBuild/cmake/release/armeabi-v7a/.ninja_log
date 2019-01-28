@@ -1,0 +1,3 @@
+# ninja log v5
+1	662	570368415	CMakeFiles/opencl-opencv-saliency.dir/src/main/cpp/opencl-opencv-saliency.cpp.o	3fb11a17236d2bad
+664	898	570368415	../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libopencl-opencv-saliency.so	6ecdccc49a291b0e

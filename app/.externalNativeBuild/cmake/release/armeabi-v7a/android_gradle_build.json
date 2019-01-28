@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "D:/AndroidOpenclOpencvSaliency/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+    "1": "--sysroot D:/androidsdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -Oz -DNDEBUG  -fPIC  "
+  },
+  "buildFiles": [
+    "D:\\androidsdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\AndroidOpenclOpencvSaliency\\app\\CMakeLists.txt",
+    "D:\\androidsdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\androidsdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\AndroidOpenclOpencvSaliency\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "opencl-opencv-saliency-Release-armeabi-v7a": {
+      "buildCommand": "D:\\androidsdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\AndroidOpenclOpencvSaliency\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target opencl-opencv-saliency",
+      "buildType": "release",
+      "toolchain": "2834749844",
+      "abi": "armeabi-v7a",
+      "artifactName": "opencl-opencv-saliency",
+      "files": [
+        {
+          "src": "D:\\AndroidOpenclOpencvSaliency\\app\\src\\main\\cpp\\opencl-opencv-saliency.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidOpenclOpencvSaliency\\app\\src\\main\\cpp\\utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "D:\\AndroidOpenclOpencvSaliency\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libopencl-opencv-saliency.so"
+    }
+  },
+  "toolchains": {
+    "2834749844": {
+      "cppCompilerExecutable": "D:\\androidsdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

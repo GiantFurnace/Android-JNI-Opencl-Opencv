@@ -1,0 +1,3 @@
+# ninja log v5
+2	647	570368414	CMakeFiles/opencl-opencv-saliency.dir/src/main/cpp/opencl-opencv-saliency.cpp.o	7e6959938f190a57
+648	928	570368414	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libopencl-opencv-saliency.so	cc315156d346c8dc

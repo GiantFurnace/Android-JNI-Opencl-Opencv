@@ -1,0 +1,3 @@
+D:/AndroidOpenclOpencvSaliency/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/opencl-opencv-saliency.dir
+D:/AndroidOpenclOpencvSaliency/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/AndroidOpenclOpencvSaliency/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
