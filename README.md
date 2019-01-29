@@ -8,6 +8,7 @@ Detailed introduction about JNI [JNI https://en.wikipedia.org/wiki/Java_Native_I
 Detailed introduction about Saliency..[saliency https://en.wikipedia.org/wiki/Salience_(neuroscience)](https://en.wikipedia.org/wiki/Salience_(neuroscience))<br />  
 ## 2. Usage
 ### Software Environment 
+- Android OS 7.1
 - Android studio 3.2
 - Opencl 1.2
 - Opencv 3.3.0
